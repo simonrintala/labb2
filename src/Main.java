@@ -52,8 +52,7 @@ public class Main {
                 " 4.Lägg i tomatpuré, vitt vin och krossade tomater.\n" +
                 " 5.Låt koka upp och lägg i buljongtärning och örter, låt puttra ca 45 minuter under lock.\n" +
                 " 6.Rör regelbundet och späd eventuellt med lite vatten.\n" +
-                " 7.Smaka av med salt och peppar och servera med nykokt pasta och\n" +
-                " Grana Padano");
+                " 7.Smaka av med salt och peppar och servera med nykokt pasta och Grana Padano");
 
     }
 }
